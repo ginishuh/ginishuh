@@ -6,7 +6,7 @@
 
 # Hi, I'm **Minchul Huh (허민철)**
 
-트라움자원(주) 대표 · WasteLite 만드는 사람
+트라움자원(주) 대표 · WasteLite를 만드는 사람
 
 **CEO @ Traum Resource Co., Ltd. (트라움자원(주))**
 Building **WasteLite**, the operating system for recycling companies.
